@@ -1,3 +1,8 @@
+## BattleShip
+
+<img width="756" alt="Affichage Terminal Partie" src="https://github.com/user-attachments/assets/d02a4a5f-979b-40e6-b431-d4920b8d0c8e" />
+
+
 ## Auteurs
 
 - Othman El Kazbani 493194
